@@ -1,0 +1,10 @@
+.env
+samples/captured_*
+state/*.local.json
+samples/*.headers.txt
+samples/headers_*
+samples/cookies*
+
+__pycache__/
+*.pyc
+.pytest_cache/

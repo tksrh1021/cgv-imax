@@ -1,0 +1,66 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Crawl-delay: 5
+Allow: /
+
+User-agent: Googlebot-Mobile
+Crawl-delay: 5
+Allow: /
+
+User-agent: Google-Extended
+Crawl-delay: 5
+Allow: /
+
+User-agent: Daumoa
+Crawl-delay: 5
+Allow: /
+
+User-agent: NaverBot
+Crawl-delay: 5
+Allow: /
+
+User-agent: Yeti
+Crawl-delay: 5
+Allow: /
+
+User-agent: Bingbot
+Crawl-delay: 5
+Allow: /
+
+User-agent: Googlebot-image
+Crawl-delay: 5
+Allow: /
+
+User-agent: facebookexternalhit
+Crawl-delay: 5
+Allow: /
+
+User-agent: Twitterbot
+Crawl-delay: 5
+Allow: /
+
+User-agent: Applebot-Extended
+Crawl-delay: 5
+Allow: /
+
+User-agent: GPTBot
+Crawl-delay: 5
+Allow: /
+
+User-agent: OAI-SearchBot
+Crawl-delay: 5
+Allow: /
+
+User-agent: PerplexityBot
+Crawl-delay: 5
+Allow: /
+
+User-agent: Claude-SearchBot
+Crawl-delay: 5
+Allow: /
+
+User-agent: ClaudeBot
+Crawl-delay: 5
+Allow: /

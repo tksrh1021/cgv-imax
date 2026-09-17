@@ -1,0 +1,1 @@
+{"statusCode":400,"statusMessage":"발매통제범위코드는 필수 요청 파라미터 입니다.","data":[{"rejectField":"rtctlScopCd","rejectValue":null,"message":"발매통제범위코드는 필수 요청 파라미터 입니다."}]}
